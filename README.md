@@ -1,4 +1,6 @@
-[![wwwisie's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwisie)](https://github.com/wwwisie/github-readme-stats)
+
+
+<!--[![wwwisie's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwisie)](https://github.com/wwwisie/github-readme-stats)-->
 
 <!--
 **wwwisie/wwwisie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
